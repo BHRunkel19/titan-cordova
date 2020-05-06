@@ -94,6 +94,10 @@ if (randNum < 25) {
 
             account: {
                 id:  accountParam || account_id
+            },
+            annotateUrl: function(){
+                // perform page check //
             }
+
         });
     })('c27b1712-50ef-4144-6473-60a5ec1aa420');
